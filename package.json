@@ -1,0 +1,29 @@
+{
+  "author": "Yuki Akiyama",
+  "name": "jsonrpc-promise",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "request": "^2.34",
+    "limit-request-promise" : "0.1.*"
+  },
+  "readmeFilename": "README.md",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/you21979/node-jsonrpc-promise.git"
+  },
+  "keywords": [
+    "jsonrpc"
+  ],
+  "bugs": {
+    "url": "https://github.com/you21979/node-jsonrpc-promise/issues"
+  },
+  "license": "MIT"
+}
