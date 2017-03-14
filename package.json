@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
+    "@you21979/http-api-error": "0.0.*",
     "request": "^2.34",
     "limit-request-promise" : "0.1.*"
   },
